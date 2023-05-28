@@ -1,21 +1,34 @@
 ----- Desafio Vat ---
-CREATE
-READ
-UPDATE
-DELITE
+*CREATE
+*READ
+*UPDATE
+*DELITE
 
-Ferramentas usadas:
-PHP
-MYSQL
-Interface: BOOTSTRAP
-responsivo
+-OBS: Banco de Dados na pasta bdvat arquivo: bdvat.sql
 
-BANCO DE DADOS: bdvat
-TABELAS: cliente, usuario, os.
+*Ferramentas usadas:
+  >PHP
+  >MYSQL
 
-MENU:
-  >USUÁRIO:                  CLIENTE:                ORDEM SERVIÇO:     
-    |-> Novo Usuário          |-> Novo Cliente        |-> Nova Ordem Serviço
-    |-> Listar Usuário        |-> Listar Client       |->Listar Ordem Serviço
-    |-> Sair                  |-> Sair                |-> Sair
+*Interface: 
+  >BOOTSTRAP
+  >responsivo
 
+BANCO DE DADOS: phpmyadmin  bdvat
+TABELAS: cliente,  usuario, os.
+
+*******  MENU  ******
+    *USUÁRIO:                      
+    > Novo Usuário         
+    > Listar Usuário       
+    > Sair                  
+
+   *CLIENTE:                    
+      > Novo Cliente          
+      > Listar Client         
+      > Sair                  
+    
+   *ORDEM SERVIÇO:     
+    > Nova Ordem Serviço
+    >Listar Ordem Serviço
+    > Sair   
