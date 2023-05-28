@@ -18,8 +18,8 @@ BANCO DE DADOS: phpmyadmin  bdvat
 TABELAS: cliente,  usuario, os.
 
 MENU:
-  >USUÁRIO:                  CLIENTE:                ORDEM SERVIÇO:     
-    |-> Novo Usuário          |-> Novo Cliente        |-> Nova Ordem Serviço
-    |-> Listar Usuário        |-> Listar Client       |->Listar Ordem Serviço
-    |-> Sair                  |-> Sair                |-> Sair
+    *USUÁRIO:                 * CLIENTE:                *ORDEM SERVIÇO:     
+    > Novo Usuário          > Novo Cliente           > Nova Ordem Serviço
+    > Listar Usuário        > Listar Client          >Listar Ordem Serviço
+    > Sair                  > Sair                   > Sair
 
